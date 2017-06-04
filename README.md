@@ -1,3 +1,5 @@
+[![Build Status](https://semaphoreci.com/api/v1/benjaminpearson/skeleton-node/branches/master/badge.svg)](https://semaphoreci.com/benjaminpearson/skeleton-node)
+
 # skeleton-node
 
 NodeJS project skeleton built to allow
