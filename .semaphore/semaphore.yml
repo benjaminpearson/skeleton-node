@@ -9,11 +9,9 @@ agent:
 blocks:
   - name: Tests
     task:
-      prologue:
-        commands:
-          - nvm install
-          - yarn
       jobs:
         - name: Tests
           commands:
+            - nvm install
+            - yarn
             - npm run test
