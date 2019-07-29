@@ -12,8 +12,8 @@ blocks:
       prologue:
         commands:
           - nvm install
-          - yarn         
+          - yarn
         jobs:
           - name: Tests
-          commands:
-            - npm run test
+            commands:
+              - npm run test
