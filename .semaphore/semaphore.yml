@@ -13,7 +13,7 @@ blocks:
         commands:
           - nvm install
           - yarn
-        jobs:
-          - name: Tests
-            commands:
-              - npm run test
+      jobs:
+        - name: Tests
+          commands:
+            - npm run test
