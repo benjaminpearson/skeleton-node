@@ -57,7 +57,7 @@
     "pre-commit": "1.2.2"
   },
   "dependencies": {
-    "lodash": "4.17.4"
+    "lodash": "4.17.21"
   },
   "repository": {
     "type": "git",
